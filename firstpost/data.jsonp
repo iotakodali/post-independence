@@ -41,18 +41,6 @@ storyjs_jsonp_data = {
                 }
             },
 			{
-                "startDate":"1948,9,13",
-				"endDate":"1948,9,17",                
-                "headline":"Annexation of Hyderabad State",
-                "text":"In September 1948, a military operation named Operation Polo, led by Sardar Vallabhbhai Patel, then Minister of Home Affairs and Deputy Prime Minister of India, was carried out, in which the Indian Armed Forces invaded the State of Hyderabad and overthrew Nizam, annexing the state into the Indian Union",
-                "asset":
-                {
-                    "media":"http://youtu.be/u-yLGIH7W9Y",
-                    "credit":"",
-                    "caption":"Writers & Creators: Kyle Humphrey & Graydon Sheppard"
-                }
-            },
-			{
                 "startDate":"1951,10,25",
  				"endDate":"1952,2,21",                
                 "headline":"First Indian General Elections, 1951",
@@ -74,17 +62,6 @@ storyjs_jsonp_data = {
                     "media":"http://youtu.be/BR8zFANeBGQ",
                     "credit":"",
                     "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
-                }
-            },
-			{
-                "startDate":"1961,0,0",
-                "headline":"Annexation of Goa",
-                "text":"the Portuguese overseas territory of Portuguese India existed for about 450 years until it was annexed by India in 1961",
-                "asset":
-                {
-                    "media":"https://maps.google.co.in/maps?hl=en&q=GOA&ie=UTF-8",
-                    "credit":"",
-                    "caption":""
                 }
             },
 			{
@@ -185,6 +162,73 @@ storyjs_jsonp_data = {
                 "asset":
                 {
                     "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1950,1,26",
+                "headline":"Indian Constitution comes into effect",
+                "text":"Although India attained independence on August 15, 1947 but till 1949 it didn't have a permanent constitution of its own and instead were functioning under the laws enacted and implemented by the British. And after many amendments the Constitution was approved and accepted on November 26, 1949 that came into force in a full-fledged fashion from on 26 January, 1950 ",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1950,1,24",
+                "headline":"Jana Gana Mana",
+                "text":"Jana Gana Mana was officially adopted by the Constituent Assembly as the Indian national anthem on 24 January 1950. 27 December 2011 marked the completion of 100 years of Jana Gana Mana since it was sung for the first time.",
+                "asset":
+                {
+                    "media":"https://soundcloud.com/vivek-bdes/jana-gana-mana",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1992,12,6",
+                "headline":"The Black Day",
+                "text":"December 6 was one of the darkest days since India gained Independence. The nation’s secular fabric was threatened by the demolition of the Babri Masjid, the contentious mosque located in Ayodhya, the birthplace of the Hindu god Ram. The mosque was demolished by Hindu karsevaks who believed that the mosque was built at the site of Ram’s birth. What followed changed the course of a nation forever. The communal riots that followed between the Hindus and Muslims took the lives of over 2000 people.",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1991,0,0",
+                "headline":"The Budget that Opened the World ",
+                "text":"Manmohan Singh, finance minister under Prime Minister P V Narasimha Rao, presented the interim budget of 1991-92, which rearranged the economic architecture of a nation and ushered in what is often referred to as economic liberalization. Foreign investment in many industries was allowed and peak duty reduced from 300 plus percent to around 50 percent. India shed its much-derided “Hindu rate of growth” and in the subsequent two decades its GDP grew between 6-10 per cent.",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1993,3,12",
+                "headline":"Mumbai blasts scar the nation",
+                "text":"Retribution for the destruction of the Babri Masjid was not swift, but that was because revenge had to be planned and plotted. Thirteen coordinated explosions ripped apart Mumbai and changed the psyche of the nation. In all, 257 people died and about 700 suffered injuries. Mumbai would never be the same again. Religious differences simmer and wounds of that fateful day have not healed. Since 1993 numerous other explosions have killed hundreds more in a city that has learned grudgingly to live with violence.",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1999,5,0",
+ 				"endDate":"1999,7,0",                 
+                "headline":"Indo Pakistan war of 1999",
+                "text":"The Kargil War, also known as the Kargil conflict,was an armed conflict between India and Pakistan that took place between May and July 1999 in the Kargil district of Kashmir and elsewhere along the Line of Control (LOC). The conflict is also referred to as Operation Vijay, which was the name of the Indian operation to clear the Kargil sector",
+                "asset":
+                {
+                    "media":"https://maps.google.co.in/maps?q=kargil+jammu+kashmir&um=1&ie=UTF-8&hl=en&sa=N&tab=wl",
                     "credit":"",
                     "caption":""
                 }
