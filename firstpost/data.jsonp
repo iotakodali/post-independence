@@ -1,0 +1,149 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"India Post Independence",
+        "type":"default",
+		"text":"1947-2013",
+		"startDate":"1947,8,15",
+        "date": [
+            {
+                "startDate":"1947,8,15",
+                "headline":"Prime Minister Nehru`s First Independence Day Speech",
+                "text":"<p>Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. A moment comes, which comes but rarely in history, when we step out from the old to the new, when an age ends, and when the soul of a nation, long suppressed, finds utterance. It is fitting that at this solemn moment, we take the pledge of dedication to the service of India and her people and to the still larger cause of humanity</p>",
+                "asset":
+                {
+                    "media":"http://youtu.be/u4XpeU9erbg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1948,1,30",
+                "headline":"Assasination of Gandhi",
+                "text":"<p>Nathuram Godse assasinated Mahathma Gandhi in Delhi, Godse himself shouted for police and surrendered himself after shooting Gandhi at a point blank.</p>",
+                "asset":
+                {
+                    "media":"http://youtu.be/f-x8t0JOnVw",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1947,10,22",
+				"endDate":"1948,12,31",                
+                "headline":"First Indo-Pakistan War",
+                "text":"The Indo-Pakistani War of 1947–1948, sometimes known as the First Kashmir War, was fought between India and Pakistan over the princely state of Kashmir and Jammu from 1947 to 1948. It was the first of four wars fought between the two newly independent nations.",
+                "asset":
+                {
+                    "media":"http://youtu.be/Ofy5gNkKGOo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1948,9,13",
+				"endDate":"1948,9,17",                
+                "headline":"Annexation of Hyderabad State",
+                "text":"In September 1948, a military operation named Operation Polo, led by Sardar Vallabhbhai Patel, then Minister of Home Affairs and Deputy Prime Minister of India, was carried out, in which the Indian Armed Forces invaded the State of Hyderabad and overthrew Nizam, annexing the state into the Indian Union",
+                "asset":
+                {
+                    "media":"http://youtu.be/u-yLGIH7W9Y",
+                    "credit":"",
+                    "caption":"Writers & Creators: Kyle Humphrey & Graydon Sheppard"
+                }
+            },
+			{
+                "startDate":"1951,10,25",
+ 				"endDate":"1952,2,21",                
+                "headline":"First Indian General Elections, 1951",
+                "text":"The Indian National Congress won 364 of the 489 seats. With this, India's grand old party managed to secure 45 per cent of the total votes polled. Pandit Jawaharlal Nehru became the first elected Prime Minister of the country, his second term as Prime Minister ",
+                "asset":
+                {
+                    "media":"http://youtu.be/zyyalkHjSjo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"1952,12,16",
+                "headline":"Death Of Potti Sreeramulu",
+                "text":"The Death of Sreeramulu, a Gandhian follower resulted in a huge transformation in the Indian Union. Nehru appointed the States Re-organisation Commission, upon whose recommendations, the States Reorganization Act was passed in 1956. Old states were dissolved and new states created on the lines of shared linguistic and ethnic demographics.",
+                "asset":
+                {
+                    "media":"http://youtu.be/BR8zFANeBGQ",
+                    "credit":"",
+                    "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
+                }
+            },
+			{
+                "startDate":"1961,0,0",
+                "headline":"Annexation of Goa",
+                "text":"the Portuguese overseas territory of Portuguese India existed for about 450 years until it was annexed by India in 1961",
+                "asset":
+                {
+                    "media":"https://maps.google.co.in/maps?hl=en&q=GOA&ie=UTF-8",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1962,0,0",
+                "headline":"Indo-Sino War",
+                "text":"In 1962 China and India engaged in the brief Sino-Indian War over the border in the Himalayas. The war was a complete rout for the Indians and led to a refocusing on arms build-up and an improvement in relations with the United States. China withdrew from disputed territory in, what is to China South Tibet, and to India part of the North-East Frontier Agency that it crossed during the war. Unrelated to that war, India disputes China's sovereignty over the smaller Aksai Chin territory that it controls on the western part of the Sino-Indian border.",
+                "asset":
+                {
+                    "media":"https://maps.google.co.in/maps?hl=en&q=aksai+chin&ie=UTF-8",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1965,0,0",
+                "headline":"Indo-Pakistan War of 1965",
+                "text":"This conflict became known as the Second Kashmir War and was fought by India and Pakistan over the disputed region of Kashmir, the first having been fought in 1947. The war began following Pakistan's Operation Gibraltar, which was designed to infiltrate forces into Jammu and Kashmir to precipitate an insurgency against rule by India.[16] The five-week war caused thousands of casualties on both sides. It ended in a United Nations (UN) mandated ceasefire and the subsequent issuance of the Tashkent Declaration.",
+                "asset":
+                {
+                    "media":"http://youtu.be/vJpBCzzcSgA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1971,0,0",
+                "headline":"Indo-Pakistani War of 1971",
+                "text":"The Indo-Pakistani War of 1971 was a military conflict between India and Pakistan. Indian, Bangladeshi and international sources consider the beginning of the war to have been Operation Chengiz Khan, Pakistan's 3 December 1971 preemptive strike on 11 Indian airbases, which led to India's entry into the Bangladesh Liberation War.Lasting just 13 days, it is considered one of the shortest wars in history.",
+                "asset":
+                {
+                    "media":"http://youtu.be/c9ehQ7vO7c0",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1975,6,26",
+ 				"endDate":"1977,3,21",                 
+                "headline":"Indian Emergency",
+                "text":"A 21-month period, when President Fakhruddin Ali Ahmed, upon request by Prime Minister Indira Gandhi, declared a state of emergency under Article 352 of the Constitution of India, effectively bestowing on her the power to rule by decree, suspending elections and civil liberties. It is one of the most controversial times in the history of independent India. Lok Nayak Jayaprakash Narayan, a scholar of law, called it one of India's blackest hours",
+                "asset":
+                {
+                    "media":"http://youtu.be/eRQe-BT9g_U",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1974,0,0",
+                "headline":"Indian First Nuclear Test",
+                "text":"India stunned the world by carrying out it`s first Nuclear test in 1974 becoming the 6th Nuclear state",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+			
+        ]
+    }
+}
