@@ -23,7 +23,7 @@ storyjs_jsonp_data = {
                 "text":"<p>Nathuram Godse assasinated Mahathma Gandhi in Delhi, Godse himself shouted for police and surrendered himself after shooting Gandhi at a point blank.</p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/f-x8t0JOnVw",
+                    "media":"../compiled/media/gandhi.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -142,8 +142,53 @@ storyjs_jsonp_data = {
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"1984,6,3",
+                "endDate":"1984,6,8",
+                "headline":"Operation Blue Star",
+                "text":"Operation Blue Star was an Indian military operation which took place 3–8 June 1984, ordered by Prime Minister Indira Gandhi in order to remove Jarnail Singh Bhindranwale and his armed followers from the Golden Temple in Amritsar, Punjab. Bhindranwale was accused of amassing weapons in the gurudwara in order to start a major armed uprising. Four months after the operation, on 31 October 1984, Indira Gandhi was assassinated by Satwant Singh and Beant Singh, two of her Sikh bodyguards, in what is viewed as an act of vengeance.",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984,12,2",
+                "endDate":"1984,12,3",
+                "headline":"Bhopal Gas Tragedy ",
+                "text":"Bhopal gas tragedy, was a gas leak incident in India, considered the world's worst industrial disaster.[1] It occurred on the night of 2–3 December 1984 at the Union Carbide India Limited pesticide plant in Bhopal, Madhya Pradesh. Over 500,000 people were exposed to methyl isocyanate gas and other chemicals. Estimates vary on the death toll. The official immediate death toll was 2,259. The government of Madhya Pradesh confirmed a total of 3,787 deaths related to the gas release.Others estimate 8,000 died within two weeks and another 8,000 or more have since died from gas-related diseases.UCC chairman, CEO Warren Anderson was arrested and released on bail by the Madhya Pradesh Police in Bhopal on 7 December 1984. He is yet to be tried for the justice",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1975,4,19",
+                "headline":"India Launches it`s First Satellite",
+                "text":"Aryabhata was India's first satellite,named after the great Indian astronomer. It was launched by the Soviet Union on 19 April 1975 from Kapustin Yar using a Kosmos-3M launch vehicle. It was built by the Indian Space Research Organization (ISRO) to gain experience in building and operating a satellite in space.",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1984,4,2",
+                "headline":"First Indian in Space ",
+                "text":" Rakesh Shrama flew into space in 1984 as part of a joint programme between the Indian Space Research Organisation (ISRO) and the Soviet Intercosmos space program. He spent eight days in space on board the Salyut 7 space station. He joined 2 other Soviet cosmonauts aboard the Soyuz T-11 spacecraft which blasted off on April 2, 1984. ",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
             }
-			
         ]
     }
 }
